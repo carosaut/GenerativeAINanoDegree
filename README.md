@@ -6,5 +6,5 @@ The original python script is 'start.py'.
 
 'draft.py' is a file I used to experiment with different models/datasets and not for submisison. 
 
-** Attributions ** 
+**Attributions** 
 compute_metrics function taken from Udacity learning materials 
